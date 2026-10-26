@@ -93,6 +93,13 @@ Consistently practicing DSA to strengthen problem-solving skills and prepare for
 - Preparing for AI/ML and Software Engineering internships.
 - Developing a strong technical portfolio for future opportunities.
 
+## 📊 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=25A31A05EV&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+
 ## 💡 Built With
 
 Python · Git · GitHub · Markdown

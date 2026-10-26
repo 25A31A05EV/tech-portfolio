@@ -62,6 +62,15 @@ Consistently practicing DSA to strengthen problem-solving skills and prepare for
 - Completed a Machine Learning course from DeepLearning.AI and Stanford.
 - Continuously improving problem-solving and technical skills.
 
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/25A31A05EV"
+       alt="Sowmya's GitHub Contributions Graph"
+       width="100%" />
+</p>
+
+
 ## 📜 Certifications
 
 - **DeepLearning.AI & Stanford:** Supervised Machine Learning: Regression and Classification

@@ -11,8 +11,7 @@ I enjoy exploring new technologies, solving challenging coding problems, and bui
 🎓 **B.Tech CSE — 2025–2029**  
 📊 **CGPA — 8.94/10**  
 💻 **Focus Areas — AI/ML, Python, DSA & Software Development**  
-🎯 **Career Goal — AI/ML Engineer**  
-🌟 **Dream Company — Google USA**
+🎯 **Career Goal — AI/ML Engineer**
 
 ## 🛠️ Technical Skills
 

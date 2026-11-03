@@ -1,15 +1,30 @@
-# Day 1 - LeetCode #1: Two Sum
-# Approach: HashMap | Time: O(n) | Space: O(n)
-
-def twoSum(nums, target):
+def two(arr,target):
     seen = {}
-    for i, num in enumerate(nums):
-        complement = target - num
-        if complement in seen:
-            return [seen[complement], i]
+    for i ,num in enumerate(arr):
+        compare = target - num
+        if compare in seen:
+            return [seen[compare],i]
         seen[num] = i
-    return []
+print(two([1,2,3,4,5,6,7,8,9],9))
+#time - o(n2)
+#space - o(n)
+def two_sum(arr,target):
+    for i in range(len(arr)):
+        for j in range(i,len(arr)):
+            if arr[i]+arr[j]==target:
+                return [i,j]
+        return []
+print(two_sum([1,2,3,4,5,6,7,8,9],9))
 
-# Test
-print(twoSum([2, 7, 11, 15], 9))  # Output: [0, 1]
-print(twoSum([3, 2, 4], 6))       # Output: [1, 2]
+#optimal solution using hashmap
+def two_sum(arr,target):
+    seen = {}
+    for i,num in enumerate(arr):
+        need = target - num
+        if need in seen:
+            return [seen[need],i]
+        seen[num] = i
+print(two_sum([3,3],6))
+print(two_sum([-3, 4, 3, 90],0))
+print(two_sum([5, 1, 8, 4],9))
+print(two_sum([1, 2, 3],10))
